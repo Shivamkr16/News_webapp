@@ -1,5 +1,6 @@
 # NewsXpress News
 NewsXpress is a cutting-edge news website project that leverages the power of JavaScript, Express.js, Bootstrap 5, and APIs to deliver a seamless and immersive news reading experience. With NewsXpress, staying informed has never been easier or more enjoyable.
+# Screenshots:
 ![pic4](https://github.com/Shivamkr16/News_webapp/assets/129687568/1a8d192e-bb78-4fcd-b29d-e3a190498306)
 ![pic2](https://github.com/Shivamkr16/News_webapp/assets/129687568/04b94077-591f-4d73-8766-215fca3beaaf)
 
